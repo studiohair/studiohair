@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 const tabs = [
   { id: "Cabelo", label: "Cabelo" },
   { id: "ManicurePedicure", label: "Manicure & Pedicure" },
-  { id: "EmbelezamentoFacial", label: "Embelezamento Facial" },
+  { id: "CuidadoFacial", label: "Cuidado Facial" },
   { id: "EsteticaFacialFuncional", label: "Estética Facial Funcional" },
 ];
 
